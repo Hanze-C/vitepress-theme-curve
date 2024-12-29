@@ -380,11 +380,11 @@ export const themeConfig = {
   // 音乐播放器
   // https://github.com/imsyy/Meting-API
   music: {
-    enable: false,
+    enable: true,
     // url
-    url: "https://api-meting.example.com",
+    url: "https://meting-api.hanze.icu",
     // id
-    id: 9379831714,
+    id: 5137078091,
     // netease / tencent / kugou
     server: "netease",
     // playlist / album / song
