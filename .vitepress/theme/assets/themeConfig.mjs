@@ -382,7 +382,7 @@ export const themeConfig = {
   music: {
     enable: true,
     // url
-    url: "https://meting-api.hanze.icu",
+    url: "https://meting-api.hanze.icu/api",
     // id
     id: 5137078091,
     // netease / tencent / kugou
